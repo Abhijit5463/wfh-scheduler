@@ -1,0 +1,12 @@
+{
+  "crons": [
+    {
+      "path": "/api/reshuffle",
+      "schedule": "0 22 * * 5"
+    },
+    {
+      "path": "/api/clearlogs",
+      "schedule": "0 22 * * 5"
+    }
+  ]
+}
